@@ -13,7 +13,7 @@ npm install -g promptrix-cli
 
 ### Quick Start
 ```bash
-# Get your free API key at https://promptrix.com/developers
+# Get your free API key at https://promptrix.co/developers
 promptrix config --key YOUR_API_KEY
 
 # Optimize a prompt
@@ -23,8 +23,8 @@ promptrix "Explain quantum computing"
 ## 📦 Links
 
 - **NPM Package**: [promptrix-cli](https://www.npmjs.com/package/promptrix-cli)
-- **Documentation**: [https://promptrix.com/docs](https://promptrix.com/docs)
-- **API Reference**: [https://promptrix.com/api](https://promptrix.com/api)
+- **Documentation**: [https://promptrix.co/docs](https://promptrix.co/docs)
+- **API Reference**: [https://promptrix.co/api](https://promptrix.co/api)
 - **Discord Community**: [Join us on Discord](https://discord.gg/promptrix)
 
 ## 🐛 Issue Tracking
